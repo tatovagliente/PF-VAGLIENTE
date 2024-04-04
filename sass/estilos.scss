@@ -34,7 +34,7 @@ html{
 
 /* INICIA BARRA DE NAVEGACION */
 .container-fluid{
-    background-image: url(../img/lumber\ header.jpg);
+    background-image: url(../img/lumberheaderreduc.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,7 +66,7 @@ html{
 /* FIN BARRA NAVEGACION */
 
 body{
-    background-image: url(../img/wood\ fondo.jpg);
+    background-image: url(../img/wood\ fondo\ reduc.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,7 +84,7 @@ main{
 }
 
 .jumbotron {
-    background-image: url(../img/jumbotronimg.jpg);
+    background-image: url(../img/jumbotronimgreduc.jpg);
     background-size: cover;
     background-position: center;
     color: $color3;
@@ -207,6 +207,7 @@ footer{
     color: $color1;
     border-top: 1px solid black;
     text-align: center;
+    font-family: $font1;
 }
 
 .redes a{
