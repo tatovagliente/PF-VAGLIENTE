@@ -160,6 +160,27 @@ h1 {
 }
 
 /* FIN PRODUCTOS */
+/* INICIA SERVICIOS */
+.btn {
+  background-color: #574b4b;
+  color: #FFF;
+  border: 2px solid rgb(218, 201, 211);
+  border-radius: 0px;
+  padding: 18px 36px;
+  display: inline-block;
+  font-size: 14px;
+  letter-spacing: 1px;
+  cursor: pointer;
+  box-shadow: inset 0 0 0 0 #11c8e9;
+  -webkit-transition: ease-out 0.4s;
+  -moz-transition: ease-out 0.4s;
+  transition: ease-out 0.4s;
+}
+
+.botonsol:hover {
+  box-shadow: inset 0 100px 0 0 #3285c9;
+}
+
 .botonsol {
   margin-top: 10px;
 }
